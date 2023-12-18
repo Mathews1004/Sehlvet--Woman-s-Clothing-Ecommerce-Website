@@ -1,0 +1,151 @@
+* {
+  font-family: Playfair Display;
+}
+
+body {
+  background-color: #f0eadc;
+  display: flex;
+}
+
+/* HEADER  */
+
+header {
+  display: flex;
+}
+
+header h2 {
+  margin: 58px 265px 0px 102px;
+}
+
+header a {
+  text-decoration: none;
+  color: #2f2f2f;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+  margin-top: 67px;
+  padding-right: 33px;
+}
+
+#about-us {
+  width: 97px;
+}
+
+#bookmark {
+  margin-left: 278px;
+}
+
+#sehlvet {
+  color: #2f2f2f;
+  font-family: Playfair Display;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+/* BODY 1 */
+
+#Elevate {
+  color: #2f2f2f;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 112px;
+
+  padding: 151px 316px 0px 100px;
+  
+
+  width: 939px;
+  height: 224px;
+
+  display: flex;
+
+  position: absolute;
+  
+  
+}
+
+h5 {
+  font-family: Playfair Display;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px;
+  color: #2f2f2f;
+
+  margin: 522px 0px 99px 102px;
+
+  position: absolute;
+}
+
+#main-button {
+  width: 222px;
+  height: 60px;
+  border-radius: 16px;
+  background: #754f23;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 400;
+  margin-left: 102px;
+  border-style: none;
+  display: flex;
+
+  position: absolute;
+
+  margin: 696px 0px 99px 102px;
+}
+
+#main-button p {
+  padding: 12px 36px 16px 31px;
+  margin: 0;
+}
+
+#main-button img {
+  padding: 24px 31px 22px 0px;
+  width: 34px;
+  height: 14px;
+}
+
+#mulher-de-jaqueta {
+  width: 670px;
+  height: 953px;
+
+  position: absolute;
+  z-index: 2;
+  margin-left: 800px;
+}
+
+#div1 { 
+  width: 455px;
+  height: 680px;
+  border-radius: 250px 250px 0px 0px;
+  border: 1px solid #754f23;
+  background: #754f23;
+
+  position: absolute;
+  z-index: 1;
+
+  margin-top: 273px;
+  margin-left: 990px;
+}
+
+#div2 {
+  width: 455px;
+  height: 680px;
+  transform: rotate(-8.401deg);
+  border-radius: 250px 250px 0px 0px;
+  border: 2px solid #754f23;
+
+  position: absolute;
+  z-index: 0;
+
+  margin-top: 273px;
+  margin-left: 960px;
+}
+
+#bookmark {
+    margin-left: 600px;
+}
