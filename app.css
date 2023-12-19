@@ -9,12 +9,19 @@ body {
 
 /* HEADER  */
 
-header {
+#header {
+  width: 100%;
+  height: 48px;
   display: flex;
+  align-items: center;
+  padding-top: 30px;
+  justify-content: space-between;
 }
 
-header h2 {
-  margin: 58px 265px 0px 102px;
+header {
+  display: flex;
+  align-items: center;
+  width: 100%;
 }
 
 header a {
@@ -29,12 +36,17 @@ header a {
   padding-right: 33px;
 }
 
-#about-us {
-  width: 97px;
+#brands {
+  margin-top: 0;
+  position: sticky;
+  z-index: 4;
 }
 
-#bookmark {
-  margin-left: 278px;
+#about-us {
+  margin-top: 0;
+  width: 120px;
+  position: absolute;
+  z-index: 4;
 }
 
 #sehlvet {
@@ -44,6 +56,15 @@ header a {
   font-style: normal;
   font-weight: 600;
   line-height: normal;
+
+  margin-right: 265px;
+  margin-left: 102px;
+
+  width: 120px;
+}
+
+#bookmark {
+  margin-left: 600px;
 }
 
 /* BODY 1 */
@@ -56,7 +77,6 @@ header a {
   line-height: 112px;
 
   padding: 151px 316px 0px 100px;
-  
 
   width: 939px;
   height: 224px;
@@ -64,8 +84,6 @@ header a {
   display: flex;
 
   position: absolute;
-  
-  
 }
 
 h5 {
@@ -118,7 +136,7 @@ h5 {
   margin-left: 800px;
 }
 
-#div1 { 
+#div1 {
   width: 455px;
   height: 680px;
   border-radius: 250px 250px 0px 0px;
@@ -146,6 +164,101 @@ h5 {
   margin-left: 960px;
 }
 
-#bookmark {
-    margin-left: 600px;
+/* BODY 2 */
+
+#trending {
+  margin-top: 902px;
+  padding-right: 920px;
+  position: absolute;
+  margin-left: 103px;
 }
+
+#have {
+  margin-top: 1024px;
+  padding-right: 920px;
+  position: absolute;
+  margin-left: 103px;
+}
+
+#formal {
+  margin: 1191px 920px 0px 118.86px;
+  position: absolute;
+  padding: 23px 23px 10px 16.86px;
+  border-radius: 16px;
+  border: 1px solid #754f23;
+}
+
+#formal h2 {
+  margin-top: 20px;
+}
+
+#formal p {
+  margin-bottom: 19px;
+}
+
+#group17 {
+  margin-left: 130px;
+}
+
+#group29 {
+  margin-left: 37px;
+}
+
+#black {
+  margin: 1063px 920px 0px 498px;
+  position: absolute;
+  padding: 23px 23px 0px 16.86px;
+  border-radius: 16px;
+  border: 1px solid #754f23;
+}
+
+.prices {
+  display: flex;
+}
+
+#group17-2 {
+  margin-left: 180px;
+}
+
+#group29-2 {
+  margin-left: 37px;
+}
+
+#car {
+  margin-left: 10px;
+} 
+
+#yellow {
+  margin: 1116px 920px 0px 1000px;
+  position: absolute;
+  padding: 23px 23px 0px 16.86px;
+  border-radius: 16px;
+  border: 1px solid #754f23;
+}
+
+#group17-3 {
+  margin-left: 90px;
+}
+
+#group29-3 {
+  margin-left: 27px;
+}
+
+#view {
+  margin: 1646px 120px 0px 1098px;
+  position: absolute;
+  border-style: none;
+  width: 222px;
+  height: 60px;
+  border-radius: 16px;
+  color: #754f23;
+  font-size: 24px;
+  font-weight: 400;
+  display: flex;
+  background-color: #f0eadc;
+  border: 1px solid #754f23;
+  align-items: center;
+  justify-content: space-between;
+  padding: 13px 38px 15px 23px;
+}
+
