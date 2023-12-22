@@ -226,7 +226,7 @@ h5 {
 
 #car {
   margin-left: 10px;
-} 
+}
 
 #yellow {
   margin: 1116px 920px 0px 1000px;
@@ -262,3 +262,60 @@ h5 {
   padding: 13px 38px 15px 23px;
 }
 
+/* BODY 3 */
+
+#summer {
+  position: absolute;
+  margin: 1848px 0px 0px 100px;
+}
+
+#consider {
+  position: absolute;
+  margin: 1920px 0px 0px 102px;
+}
+
+#rec14 {
+  position: absolute;
+  margin: 2064px 0px 0px 162px;
+}
+
+#main-aim {
+  position: absolute;
+  margin: 2627px 0px 0px 120px;
+}
+
+#provide {
+  position: absolute;
+  margin: 2044px 0px 0px 840px;
+}
+
+#rec13 {
+  position: absolute;
+  margin: 2155px 0px 0px 840px;
+}
+
+#rec15 {
+  position: absolute;
+  margin: 2418px 0px 0px 728px;
+}
+
+#explore1 {
+  width: 222px;
+  height: 60px;
+  position: absolute;
+  margin: 2702px 0px 0px 1095px;
+  border-style: none;
+  background-color: #f0eadc;
+  border: 1px solid #754f23;
+  border-radius: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 38px;
+}
+
+#explore1 p {
+  color: #754f23;
+  font-size: 24px;
+  font-weight: 400;
+}
