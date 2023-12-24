@@ -5,23 +5,21 @@
 body {
   background-color: #f0eadc;
   display: flex;
+  margin: 0;
 }
 
 /* HEADER  */
 
-#header {
+header {
+  display: flex;
+  align-items: center;
+  width: 100%;
   width: 100%;
   height: 48px;
   display: flex;
   align-items: center;
   padding-top: 30px;
   justify-content: space-between;
-}
-
-header {
-  display: flex;
-  align-items: center;
-  width: 100%;
 }
 
 header a {
@@ -319,3 +317,185 @@ h5 {
   font-size: 24px;
   font-weight: 400;
 }
+
+/* BODY 4 */
+
+#winter {
+  position: absolute;
+  margin: 2893px 0px 0px 981px;
+}
+
+#consider1 {
+  position: absolute;
+  margin: 2961px 0px 0px 821px;
+}
+
+#provide {
+  position: absolute;
+  margin: 3059px 0px 0px 111px;
+}
+
+#rec18 {
+  position: absolute;
+  margin: 3211px 0px 0px 378px;
+}
+
+#rec20 {
+  position: absolute;
+  margin: 3331px 0px 0px 122px;
+}
+
+#serve {
+  position: absolute;
+  margin: 3376px 0px 0px 752px;
+}
+
+#explore2 {
+  width: 222px;
+  height: 60px;
+  position: absolute;
+  margin: 3260px 0px 0px 1095px;
+  border-style: none;
+  background-color: #f0eadc;
+  border: 1px solid #754f23;
+  border-radius: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 38px;
+}
+
+#explore2 p {
+  color: #754f23;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+/* BODY FINAL */
+
+#what {
+  position: absolute;
+  margin: 3749px 0px 0px 810px;
+}
+
+#value1 {
+  position: absolute;
+  margin: 3827px 0px 0px 670px;
+}
+
+#rec23 {
+  position: absolute;
+  margin: 3902px 0px 0px 122px;
+}
+
+#group {
+  position: absolute;
+  margin: 3948px 0px 0px 448px;
+}
+
+#ladiesvibe {
+  position: absolute;
+  margin: 4047px 0px 0px 446px;
+}
+
+#jane {
+  position: absolute;
+  margin: 4171px 0px 0px 446px;
+}
+
+#fashion1 {
+  position: absolute;
+  margin: 4210px 0px 0px 446px;
+}
+
+#mini-left {
+  position: absolute;
+  margin: 4190px 0px 0px 999px;
+  width: 60px;
+  height: 60px;
+  border-style: none;
+  background-color: #f0eadc;
+  border: 1px solid #754f23;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#mini-right {
+  position: absolute;
+  margin: 4190px 0px 0px 1087px;
+  width: 60px;
+  height: 60px;
+  border-style: none;
+  background-color: #f0eadc;
+  border: 1px solid #754f23;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* FOOTER */
+
+footer {
+  position: absolute;
+  margin-top: 4410px;
+  width: 100%;
+  height: 184px;
+  display: flex;
+  background-color: #754f23;
+  padding: 59px 0px 0px 0px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+footer h5 {
+  margin: 0;
+}
+
+footer h2 {
+  margin: 0;
+}
+
+#links1 {
+  height: 243px;
+  box-sizing: border-box;
+}
+
+#links1 h5 {
+  display: block;
+}
+
+#links1 a {
+  padding-top: 20px;
+}
+
+#buttons {
+  height: 243px;
+}
+
+#buttons a {
+  display: block;
+  padding-bottom: 13px;
+  text-decoration: none;
+
+  color: #ddd9d6;
+  font-family: Playfair Display;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+#information {
+  height: 243px;
+  justify-content: space-between;
+}
+
+#information h4{
+  margin: 0;
+  
+}
+
+
+
+
