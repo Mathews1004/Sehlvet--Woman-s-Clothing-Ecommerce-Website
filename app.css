@@ -14,10 +14,7 @@ header {
   display: flex;
   align-items: center;
   width: 100%;
-  width: 100%;
   height: 48px;
-  display: flex;
-  align-items: center;
   padding-top: 30px;
   justify-content: space-between;
 }
@@ -26,9 +23,7 @@ header a {
   text-decoration: none;
   color: #2f2f2f;
   font-size: 24px;
-  font-style: normal;
   font-weight: 400;
-  line-height: normal;
 
   margin-top: 67px;
   padding-right: 33px;
@@ -51,9 +46,7 @@ header a {
   color: #2f2f2f;
   font-family: Playfair Display;
   font-size: 36px;
-  font-style: normal;
   font-weight: 600;
-  line-height: normal;
 
   margin-right: 265px;
   margin-left: 102px;
@@ -70,7 +63,6 @@ header a {
 #Elevate {
   color: #2f2f2f;
   font-size: 96px;
-  font-style: normal;
   font-weight: 400;
   line-height: 112px;
 
@@ -84,12 +76,10 @@ header a {
   position: absolute;
 }
 
-h5 {
+body h5 {
   font-family: Playfair Display;
   font-size: 18px;
-  font-style: normal;
   font-weight: 400;
-  line-height: 25px;
   color: #2f2f2f;
 
   margin: 522px 0px 99px 102px;
@@ -105,7 +95,6 @@ h5 {
   color: #fff;
   font-size: 24px;
   font-weight: 400;
-  margin-left: 102px;
   border-style: none;
   display: flex;
 
@@ -131,7 +120,7 @@ h5 {
 
   position: absolute;
   z-index: 2;
-  margin-left: 800px;
+  margin-left: 1000px;
 }
 
 #div1 {
@@ -158,28 +147,25 @@ h5 {
   position: absolute;
   z-index: 0;
 
-  margin-top: 273px;
-  margin-left: 960px;
+  margin: 273px 0px 0px 960px;
 }
 
 /* BODY 2 */
 
 #trending {
-  margin-top: 902px;
   padding-right: 920px;
   position: absolute;
-  margin-left: 103px;
+  margin: 902px 0px 0px 103px;
 }
 
 #have {
-  margin-top: 1024px;
   padding-right: 920px;
   position: absolute;
-  margin-left: 103px;
+  margin: 1024px 0px 0px 103px;
 }
 
 #formal {
-  margin: 1191px 920px 0px 118.86px;
+  margin: 1191px 0px 0px 318.86px;
   position: absolute;
   padding: 23px 23px 10px 16.86px;
   border-radius: 16px;
@@ -203,7 +189,7 @@ h5 {
 }
 
 #black {
-  margin: 1063px 920px 0px 498px;
+  margin: 1063px 0px 0px 698px;
   position: absolute;
   padding: 23px 23px 0px 16.86px;
   border-radius: 16px;
@@ -227,7 +213,7 @@ h5 {
 }
 
 #yellow {
-  margin: 1116px 920px 0px 1000px;
+  margin: 1116px 0px 0px 1200px;
   position: absolute;
   padding: 23px 23px 0px 16.86px;
   border-radius: 16px;
@@ -243,7 +229,7 @@ h5 {
 }
 
 #view {
-  margin: 1646px 120px 0px 1098px;
+  margin: 1646px 0px 0px 1298px;
   position: absolute;
   border-style: none;
   width: 222px;
@@ -274,34 +260,34 @@ h5 {
 
 #rec14 {
   position: absolute;
-  margin: 2064px 0px 0px 162px;
+  margin: 2064px 0px 0px 362px;
 }
 
 #main-aim {
   position: absolute;
-  margin: 2627px 0px 0px 120px;
+  margin: 2627px 0px 0px 320px;
 }
 
-#provide {
+#provide1 {
   position: absolute;
-  margin: 2044px 0px 0px 840px;
+  margin: 2044px 0px 0px 1040px;
 }
 
 #rec13 {
   position: absolute;
-  margin: 2155px 0px 0px 840px;
+  margin: 2155px 0px 0px 1040px;
 }
 
 #rec15 {
   position: absolute;
-  margin: 2418px 0px 0px 728px;
+  margin: 2418px 0px 0px 928px;
 }
 
 #explore1 {
   width: 222px;
   height: 60px;
   position: absolute;
-  margin: 2702px 0px 0px 1095px;
+  margin: 2702px 0px 0px 1295px;
   border-style: none;
   background-color: #f0eadc;
   border: 1px solid #754f23;
@@ -322,12 +308,12 @@ h5 {
 
 #winter {
   position: absolute;
-  margin: 2893px 0px 0px 981px;
+  margin: 2893px 0px 0px 1381px;
 }
 
 #consider1 {
   position: absolute;
-  margin: 2961px 0px 0px 821px;
+  margin: 2961px 0px 0px 1229px;
 }
 
 #provide {
@@ -337,24 +323,24 @@ h5 {
 
 #rec18 {
   position: absolute;
-  margin: 3211px 0px 0px 378px;
+  margin: 3211px 0px 0px 578px;
 }
 
 #rec20 {
   position: absolute;
-  margin: 3331px 0px 0px 122px;
+  margin: 3331px 0px 0px 322px;
 }
 
 #serve {
   position: absolute;
-  margin: 3376px 0px 0px 752px;
+  margin: 3376px 0px 0px 952px;
 }
 
 #explore2 {
   width: 222px;
   height: 60px;
   position: absolute;
-  margin: 3260px 0px 0px 1095px;
+  margin: 3260px 0px 0px 1295px;
   border-style: none;
   background-color: #f0eadc;
   border: 1px solid #754f23;
@@ -375,37 +361,37 @@ h5 {
 
 #what {
   position: absolute;
-  margin: 3749px 0px 0px 810px;
+  margin: 3749px 0px 0px 1297px;
 }
 
 #value1 {
   position: absolute;
-  margin: 3827px 0px 0px 670px;
+  margin: 3827px 0px 0px 1153px;
 }
 
 #rec23 {
   position: absolute;
-  margin: 3902px 0px 0px 122px;
+  margin: 3902px 0px 0px 322px;
 }
 
 #group {
   position: absolute;
-  margin: 3948px 0px 0px 448px;
+  margin: 3948px 0px 0px 648px;
 }
 
 #ladiesvibe {
   position: absolute;
-  margin: 4047px 0px 0px 446px;
+  margin: 4047px 0px 0px 646px;
 }
 
 #jane {
   position: absolute;
-  margin: 4171px 0px 0px 446px;
+  margin: 4171px 0px 0px 646px;
 }
 
 #fashion1 {
   position: absolute;
-  margin: 4210px 0px 0px 446px;
+  margin: 4210px 0px 0px 646px;
 }
 
 #mini-left {
@@ -458,19 +444,6 @@ footer h2 {
   margin: 0;
 }
 
-#links1 {
-  height: 243px;
-  box-sizing: border-box;
-}
-
-#links1 h5 {
-  display: block;
-}
-
-#links1 a {
-  padding-top: 20px;
-}
-
 #buttons {
   height: 243px;
 }
@@ -486,15 +459,50 @@ footer h2 {
   font-weight: 500;
 }
 
-#information {
+#links1 {
   height: 243px;
-  justify-content: space-between;
-}
-
-#information h4{
-  margin: 0;
   
 }
+
+#links1 h2{
+  margin: 0;
+  display: flex;
+  color: #ddd9d6;
+  padding-bottom: 14px;
+  
+}
+
+#links1 h5 {
+  position: relative;
+  padding-bottom: 37px;
+}
+
+#information {
+  list-style: none;
+  height: 243px;
+  padding: 0;
+  margin: 0;
+  color: #ddd9d6;
+}
+
+#information h5 {
+  margin: 0;
+  padding-bottom: 13px;
+  font-size: 16px;
+
+  color: #DDD9D6;
+  position: relative;
+}
+
+#information li {
+  padding-bottom: 17px;
+}
+
+
+
+
+
+
 
 
 
